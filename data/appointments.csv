@@ -1,0 +1,22 @@
+A001,P001,D001,2026-10-01,09:00,Fever and cough,Completed,500.0,0.0
+A002,P002,D005,2026-10-02,10:00,Prenatal checkup,Completed,900.0,0.0
+A003,P003,D003,2026-10-03,08:30,High blood pressure,Completed,1200.0,240.0
+A004,P007,D002,2026-10-03,09:30,Child vaccination,Completed,600.0,0.0
+A005,P004,D004,2026-10-04,13:00,Skin rash,Completed,800.0,0.0
+A006,P006,D003,2026-10-04,14:00,Chest pain follow-up,Completed,1200.0,240.0
+A007,P009,D006,2026-10-05,15:00,Knee pain,Completed,1000.0,0.0
+A008,P008,D002,2026-10-05,10:30,Cough and colds,Cancelled,600.0,0.0
+A009,P010,D001,2026-10-06,11:00,General checkup,Completed,500.0,0.0
+A010,P011,D003,2026-10-06,08:00,Heart monitoring,Completed,1200.0,240.0
+A011,P012,D001,2026-10-07,09:00,Diabetes consultation,Completed,500.0,0.0
+A012,P013,D002,2026-10-08,14:30,Asthma checkup,Completed,600.0,0.0
+A013,P014,D005,2026-10-08,10:00,Irregular menstruation,Cancelled,900.0,0.0
+A014,P015,D004,2026-10-09,15:30,Acne treatment,Completed,800.0,0.0
+A015,P016,D003,2026-10-09,09:00,Blood pressure check,Completed,1200.0,240.0
+A016,P017,D001,2026-10-10,13:30,Sore throat,Completed,500.0,0.0
+A017,P018,D005,2026-10-11,16:00,Pregnancy consultation,Scheduled,900.0,0.0
+A018,P019,D001,2026-10-12,09:00,Back pain,Scheduled,500.0,0.0
+A019,P020,D002,2026-10-12,10:00,Fever,Scheduled,600.0,0.0
+A020,P003,D003,2026-10-13,08:30,Cardiac follow-up,Scheduled,1200.0,240.0
+A021,P005,D004,2026-10-14,11:00,Allergy consultation,Scheduled,800.0,0.0
+A022,P006,D001,2026-10-15,14:00,Annual checkup,Scheduled,500.0,100.0
